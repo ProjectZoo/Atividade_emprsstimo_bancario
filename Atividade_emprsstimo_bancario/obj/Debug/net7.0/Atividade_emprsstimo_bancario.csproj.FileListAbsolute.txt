@@ -1,0 +1,15 @@
+C:\Users\jooaa\OneDrive\Documentos\Atividade_emprsstimo_bancario\bin\Debug\net7.0\Atividade_emprsstimo_bancario.exe
+C:\Users\jooaa\OneDrive\Documentos\Atividade_emprsstimo_bancario\bin\Debug\net7.0\Atividade_emprsstimo_bancario.deps.json
+C:\Users\jooaa\OneDrive\Documentos\Atividade_emprsstimo_bancario\bin\Debug\net7.0\Atividade_emprsstimo_bancario.runtimeconfig.json
+C:\Users\jooaa\OneDrive\Documentos\Atividade_emprsstimo_bancario\bin\Debug\net7.0\Atividade_emprsstimo_bancario.dll
+C:\Users\jooaa\OneDrive\Documentos\Atividade_emprsstimo_bancario\bin\Debug\net7.0\Atividade_emprsstimo_bancario.pdb
+C:\Users\jooaa\OneDrive\Documentos\Atividade_emprsstimo_bancario\obj\Debug\net7.0\Atividade_emprsstimo_bancario.csproj.AssemblyReference.cache
+C:\Users\jooaa\OneDrive\Documentos\Atividade_emprsstimo_bancario\obj\Debug\net7.0\Atividade_emprsstimo_bancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jooaa\OneDrive\Documentos\Atividade_emprsstimo_bancario\obj\Debug\net7.0\Atividade_emprsstimo_bancario.AssemblyInfoInputs.cache
+C:\Users\jooaa\OneDrive\Documentos\Atividade_emprsstimo_bancario\obj\Debug\net7.0\Atividade_emprsstimo_bancario.AssemblyInfo.cs
+C:\Users\jooaa\OneDrive\Documentos\Atividade_emprsstimo_bancario\obj\Debug\net7.0\Atividade_emprsstimo_bancario.csproj.CoreCompileInputs.cache
+C:\Users\jooaa\OneDrive\Documentos\Atividade_emprsstimo_bancario\obj\Debug\net7.0\Atividade_emprsstimo_bancario.dll
+C:\Users\jooaa\OneDrive\Documentos\Atividade_emprsstimo_bancario\obj\Debug\net7.0\refint\Atividade_emprsstimo_bancario.dll
+C:\Users\jooaa\OneDrive\Documentos\Atividade_emprsstimo_bancario\obj\Debug\net7.0\Atividade_emprsstimo_bancario.pdb
+C:\Users\jooaa\OneDrive\Documentos\Atividade_emprsstimo_bancario\obj\Debug\net7.0\Atividade_emprsstimo_bancario.genruntimeconfig.cache
+C:\Users\jooaa\OneDrive\Documentos\Atividade_emprsstimo_bancario\obj\Debug\net7.0\ref\Atividade_emprsstimo_bancario.dll
